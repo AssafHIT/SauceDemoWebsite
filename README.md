@@ -1,6 +1,6 @@
 # SauceDemoWebsite
 
-This repository contains the HTML and CSS code for a demo website, showcasing my automation project.
+This repository contains my HTML and CSS code for the demo website, showcasing my automation project.
 
 ## Live Demo
 
