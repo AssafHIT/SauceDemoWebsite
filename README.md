@@ -12,7 +12,7 @@ Check out the live website here: [Live Demo](https://AssafHIT.github.io/SauceDem
    ```bash
    git clone https://github.com/AssafHIT/SauceDemoWebsite.git
 
-![Screenshot 1](images/allureScreenshot2025-02-23-080737.png)
-![Screenshot 2](images/allureScreenshot2025-02-23-081839.png)
-![Screenshot 3](images/codeScreenshot2025-02-23-090537.png)
-![Screenshot 4](images/codeScreenshot2025-02-23-090644.png)
+![Screenshot 1](allureScreenshot2025-02-23-080737.png)
+![Screenshot 2](allureScreenshot2025-02-23-081839.png)
+![Screenshot 3](codeScreenshot2025-02-23-090537.png)
+![Screenshot 4](codeScreenshot2025-02-23-090644.png)
