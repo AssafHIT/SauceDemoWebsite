@@ -1,12 +1,6 @@
 # SauceDemoWebsite
 
-This is a demo e-commerce website showcasing front-end development skills.
-
-## Features
-
-- Responsive design
-- Product page and shopping cart
-- Login functionality
+This repository contains the HTML and CSS code for a demo website, showcasing my automation project.
 
 ## Live Demo
 
