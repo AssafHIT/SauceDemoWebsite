@@ -214,3 +214,11 @@ footer {
         font-size: 1rem; 
     }
 }
+#screenshots {
+    text-align: center;
+}
+
+#screenshots img {
+    max-width: 100%;
+    height: auto;
+}
